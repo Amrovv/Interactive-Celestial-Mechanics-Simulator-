@@ -121,6 +121,7 @@ interactive-celestial-mechanics-simulator/
 │       └── outer.png
 ├── tests/
 │   └── test_orbits.py      # Basic checks on the orbit maths
+    └── test_performance.py # Basic checks on performance
 ├── assets/
 │   ├── screenshots/        # README images
 │   └── animations/         # README GIFs
